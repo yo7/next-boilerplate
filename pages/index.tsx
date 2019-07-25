@@ -1,7 +1,5 @@
-/// <reference types="styled-components/cssprop" />
-
 import * as React from 'react'
-import { css } from 'styled-components'
+import { css } from '@emotion/core'
 
 export default () => {
   return (
