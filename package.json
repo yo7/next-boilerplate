@@ -17,7 +17,6 @@
     "dev": "next",
     "build": "next build",
     "start": "next start",
-    "fmt": "prettier --write '**/*{ts,tsx}'",
-    "typecheck": "tsc --noEmit"
+    "fmt": "prettier --write '**/*{ts,tsx}'"
   }
 }
