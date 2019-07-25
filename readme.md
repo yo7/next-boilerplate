@@ -1,9 +1,7 @@
 # Next Boilerplate
 
 - TypeScript
-- styled-components
-  - css prop enabled
-  - SSR enabled
+- emotion
 - prettier
 
 # Develop
