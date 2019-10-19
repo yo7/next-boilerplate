@@ -17,7 +17,7 @@
     "dev": "next",
     "build": "next build",
     "start": "next start",
-    "lint": "prettier --list-different src/**/*.{ts,tsx}",
+    "lint": "prettier --list-different '**/*{ts,tsx}'",
     "lint:fix": "prettier --write '**/*{ts,tsx}'",
     "test:type": "tsc --noEmit"
   }
